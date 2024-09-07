@@ -5,7 +5,6 @@
 This project demonstrates the deployment of a Circom-based circuit and its integration with a smart contract on the Polygon Amoy testnet. It includes the following steps:
 
 ## Prerequisites
-
 - Node.js and npm installed
 - Hardhat framework setup
 - `.env` file with your private key for deployment (in `PRIVATE_KEY`)
