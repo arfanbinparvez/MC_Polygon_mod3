@@ -1,5 +1,3 @@
----
-
 # Circom Circuit Verifier on Polygon Amoy Testnet
 
 This project demonstrates the deployment of a Circom-based circuit and its integration with a smart contract on the Polygon Amoy testnet. It includes the following steps:
