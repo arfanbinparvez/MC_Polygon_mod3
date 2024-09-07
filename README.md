@@ -41,5 +41,5 @@ Deploy the verifier contract to the Polygon Amoy testnet using the `deploy.ts` s
 ```bash
 npx hardhat run scripts/deploy.ts --network amoy
 ```
-```
-By following these steps, you’ll have your Circom circuit compiled and the verifier contract deployed on the Polygon Amoy testnet.
+
+# By following these steps, you’ll have your Circom circuit compiled and the verifier contract deployed on the Polygon Amoy testnet.
