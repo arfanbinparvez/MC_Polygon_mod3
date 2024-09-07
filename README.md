@@ -1,7 +1,3 @@
-Here’s the updated README with additional steps for deploying the `deploy.ts` script on the Amoy testnet:
-
----
-
 # Circom Circuit Verifier on Polygon Amoy Testnet
 
 This project demonstrates how to deploy a Circom-based circuit and integrate it with a verifier contract on the Polygon Amoy testnet. Follow these steps to set up and deploy your circuit.
@@ -45,7 +41,4 @@ Deploy the verifier contract to the Polygon Amoy testnet using the `deploy.ts` s
 ```bash
 npx hardhat run scripts/deploy.ts --network amoy
 ```
-
----
-
 By following these steps, you’ll have your Circom circuit compiled and the verifier contract deployed on the Polygon Amoy testnet.
